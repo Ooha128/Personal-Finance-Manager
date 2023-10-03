@@ -1,0 +1,12 @@
+.doughnutchart
+{
+   width: 250px;
+}
+
+.chart{
+    width: 500;
+    height: 300px;
+    display: flex;
+   justify-content: center;
+
+}

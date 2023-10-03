@@ -1,0 +1,14 @@
+.topnav{
+    padding-left: 50px;
+    background-color: royalblue;
+    color: white;
+}
+
+.nav-item
+{
+    margin-right: 30px;
+}
+
+.icon:hover{
+    cursor: pointer;
+}

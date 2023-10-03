@@ -1,0 +1,79 @@
+{
+  "name": "miniproject",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@adobe/react-spectrum": "^3.28.0",
+    "@adobe/spectrum-css": "^3.0.0",
+    "@coreui/react-chartjs": "^2.1.3",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@react-spectrum/card": "^3.0.0-alpha.20",
+    "@react-spectrum/datepicker": "^3.6.0",
+    "@react-spectrum/inlinealert": "^3.0.0-rc.0",
+    "@reduxjs/toolkit": "^1.9.5",
+    "@spectrum-css/button": "^10.1.11",
+    "@spectrum-css/checkbox": "^6.1.10",
+    "@spectrum-css/fieldlabel": "^7.0.19",
+    "@spectrum-css/icon": "^3.0.50",
+    "@spectrum-css/inlinealert": "^7.0.35",
+    "@spectrum-css/page": "^5.0.31",
+    "@spectrum-css/sidenav": "^3.0.51",
+    "@spectrum-css/textfield": "^6.0.8",
+    "@spectrum-css/typography": "^5.0.29",
+    "@spectrum-css/vars": "^9.0.8",
+    "@spectrum-icons/workflow": "^4.2.2",
+    "@spectrum-web-components/icons-workflow": "^0.35.0",
+    "@spectrum-web-components/link": "^0.35.0",
+    "@spectrum-web-components/sidenav": "^0.35.0",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.4.0",
+    "bootstrap": "^5.3.1",
+    "cypress": "^13.1.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.8.0",
+    "react-datepicker": "^4.16.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.1.2",
+    "react-router-dom": "^6.14.2",
+    "react-scripts": "5.0.1",
+    "redux": "^4.2.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.22.14",
+    "@babel/preset-react": "^7.22.5",
+    "babel-jest": "^29.6.4"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "cypress.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

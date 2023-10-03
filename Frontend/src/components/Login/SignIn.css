@@ -1,0 +1,23 @@
+html, body {
+    margin:0;
+    height:100%;
+  }
+
+.form
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url("https://t4.ftcdn.net/jpg/05/31/79/83/360_F_531798391_XFz7gyPmDRTAfiEE5sRjFu5NpKrJt4rC.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.provider{
+  padding: 25px;
+}
+
+.provider svg{
+  padding: 0 !important;
+}

@@ -1,0 +1,12 @@
+.barchart
+{
+   width: 650px;
+}
+
+.chart{
+    width: 1000;
+    height: 420px;
+    display: flex;
+   justify-content: center;
+
+}

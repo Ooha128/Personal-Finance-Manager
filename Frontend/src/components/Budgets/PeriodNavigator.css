@@ -1,0 +1,13 @@
+.date{
+    display: flex;
+    justify-content: center;
+}
+
+.datepicker
+{
+    width: 150px;
+}
+
+sp-icon-calendar{
+    margin-top: 5px;
+}
